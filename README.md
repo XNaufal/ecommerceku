@@ -11,4 +11,4 @@ ANGGOTA 5: AINAL AKBAR SINAU - 220907502066
 
 ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 
-(screenshoot/Screenshot (1).png)
+![1](screenshot/Screenshot (1).png)
