@@ -28,6 +28,7 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 # Create Dashboard User/Costumers/Staff/Admin
 ![Screenshot 26](screenshot/Screenshot%20(26).png)
 ![Screenshot 8](screenshot/Screenshot%20(8).png)
+![Screenshot 27](screenshot/Screenshot%20(27).png)
 ![Screenshot 7](screenshot/Screenshot%20(7).png)
 ![Screenshot 10](screenshot/Screenshot%20(10).png)
 ![Screenshot 11](screenshot/Screenshot%20(11).png)
