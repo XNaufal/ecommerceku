@@ -23,9 +23,8 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 ![Screenshot 10](screenshot/Screenshot%20(10).png)
 ![Screenshot 11](screenshot/Screenshot%20(11).png)
 ![Screenshot 12](screenshot/Screenshot%20(12).png)
-
+<br>
 # MODELS FOR SALE
-
 ![Screenshot 13](screenshot/Screenshot%20(13).png)
 ![Screenshot 14](screenshot/Screenshot%20(14).png)
 ![Screenshot 15](screenshot/Screenshot%20(15).png)
