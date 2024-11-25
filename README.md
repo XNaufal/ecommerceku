@@ -16,9 +16,9 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 # Creating User Accounts Ecommerce BackEnd
 ![Screenshot 1](screenshot/Screenshot%20(1).png)
 ![Screenshot 2](screenshot/Screenshot%20(2).png)
+![Screenshot 6](screenshot/Screenshot%20(6).png)
 ![Screenshot 4](screenshot/Screenshot%20(4).png)
 ![Screenshot 5](screenshot/Screenshot%20(5).png)
-![Screenshot 6](screenshot/Screenshot%20(6).png)
 ![Screenshot 9](screenshot/Screenshot%20(9).png)
 ![Screenshot 10](screenshot/Screenshot%20(10).png)
 ![Screenshot 12](screenshot/Screenshot%20(12).png)
