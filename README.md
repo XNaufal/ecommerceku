@@ -16,7 +16,6 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 # Creating User Accounts Ecommerce BackEnd
 ![Screenshot 1](screenshot/Screenshot%20(1).png)
 ![Screenshot 2](screenshot/Screenshot%20(2).png)
-![Screenshot 3](screenshot/Screenshot%20(3).png)
 ![Screenshot 4](screenshot/Screenshot%20(4).png)
 ![Screenshot 5](screenshot/Screenshot%20(5).png)
 ![Screenshot 6](screenshot/Screenshot%20(6).png)
@@ -30,10 +29,11 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 <br>
 <br>
 # Create Dashboard User/Costumers/Staff/Admin
+![Screenshot 3](screenshot/Screenshot%20(3).png)
 <br>
 <br>
 <br>
-# MODELS FOR SALE
+# Models for Sale
 ![Screenshot 13](screenshot/Screenshot%20(13).png)
 ![Screenshot 14](screenshot/Screenshot%20(14).png)
 ![Screenshot 15](screenshot/Screenshot%20(15).png)
