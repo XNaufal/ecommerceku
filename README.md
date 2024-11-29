@@ -64,16 +64,29 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 <br>
 <br>
 # 5. Models for Sale
+# - Review Aplikasi SHOP
 ![Screenshot 13](screenshot/Screenshot%20(13).png)
+<br>
+# - Review Model "Detail Pesanan"
 ![Screenshot 14](screenshot/Screenshot%20(14).png)
 ![Screenshot 15](screenshot/Screenshot%20(15).png)
+<br>
+# - Review Model "Item Keranjang"
 ![Screenshot 16](screenshot/Screenshot%20(16).png)
 ![Screenshot 17](screenshot/Screenshot%20(17).png)
+<br>
+# - Review Model "Kategori"
 ![Screenshot 18](screenshot/Screenshot%20(18).png)
 ![Screenshot 19](screenshot/Screenshot%20(19).png)
+<br>
+# - Review Model "Keranjang"
 ![Screenshot 20](screenshot/Screenshot%20(20).png)
 ![Screenshot 21](screenshot/Screenshot%20(21).png)
+<br>
+# - Review Model "Pesanan"
 ![Screenshot 22](screenshot/Screenshot%20(22).png)
 ![Screenshot 23](screenshot/Screenshot%20(23).png)
+<br>
+# - Review Model "Produk"
 ![Screenshot 24](screenshot/Screenshot%20(24).png)
 ![Screenshot 25](screenshot/Screenshot%20(25).png)
