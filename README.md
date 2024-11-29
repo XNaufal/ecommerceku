@@ -14,7 +14,7 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 <br>
 <br>
 # Daftar Isi
-- [1. Create Environment & StartProject](#1-create-environment--startproject)
+# - [1. Create Environment & StartProject](#1-create-environment--startproject)
 <br>
 <br>
 <br>
