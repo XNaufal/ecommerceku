@@ -13,8 +13,6 @@ ANGGOTA 5: AINAL AKBAR SINAU - 220907502066
 ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 
 <br>
-<br>
-<br>
 
 # Daftar Isi
 # [1. Create Environment & StartProject](#1-create-environment--startproject-1)
@@ -33,8 +31,6 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 # 2. Configure Database Ecommerce BackEnd
 ![Screenshot 30](screenshot/Screenshot%20(30).png)
 
-<br>
-<br>
 <br>
 
 # 3. Creating User Accounts Ecommerce BackEnd
@@ -75,8 +71,6 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 ![Screenshot 12](screenshot/Screenshot%20(12).png)
 
 <br>
-<br>
-<br>
 
 # 4. Create Dashboard User/Costumers/Staff/Admin
 # - Review Dashboard Admin
@@ -91,8 +85,6 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 ![Screenshot 10](screenshot/Screenshot%20(10).png)
 ![Screenshot 11](screenshot/Screenshot%20(11).png)
 
-<br>
-<br>
 <br>
 
 # 5. Models for Sale
