@@ -28,11 +28,21 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 ![Screenshot 1](screenshot/Screenshot%20(1).png)
 ![Screenshot 2](screenshot/Screenshot%20(2).png)
 ![Screenshot 3](screenshot/Screenshot%20(3).png)
+<br>
+# - Halaman Register Publik
 ![Screenshot 6](screenshot/Screenshot%20(6).png)
+<br>
+# - Halaman Login Publik
 ![Screenshot 4](screenshot/Screenshot%20(4).png)
+<br>
+# - Halaman Lupa Sandi
 ![Screenshot 5](screenshot/Screenshot%20(5).png)
+<br>
+# - Review Lupa Sandi
 ![Screenshot 29](screenshot/Screenshot%20(29).png)
 ![Screenshot 28](screenshot/Screenshot%20(28).png)
+<br>
+# - Review Register
 ![Screenshot 9](screenshot/Screenshot%20(9).png)
 ![Screenshot 12](screenshot/Screenshot%20(12).png)
 <br>
