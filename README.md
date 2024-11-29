@@ -19,19 +19,15 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 # Daftar Isi
 # [1. Create Environment & StartProject](#1-create-environment--startproject-1)
 # [2. Configure Database Ecommerce BackEnd](#2-configure-database-ecommerce-backend-1)
-# [3. Creating User Accounts Ecommerce BackEnd](#3-creating-user-accounts-ecommerce-backend)
-# [4. Create Dashboard User/Costumers/Staff/Admin](#4-create-dashboard-usercostumersstaffadmin)
-# [5. Models for Sale](#5-models-for-sale)
+# [3. Creating User Accounts Ecommerce BackEnd](#3-creating-user-accounts-ecommerce-backend-1)
+# [4. Create Dashboard User/Costumers/Staff/Admin](#4-create-dashboard-usercostumersstaffadmin-1)
+# [5. Models for Sale](#5-models-for-sale-1)
 
-<br>
-<br>
 <br>
 
 # 1. Create Environment & StartProject
 ![Screenshot 31](screenshot/Screenshot%20(31).png)
 
-<br>
-<br>
 <br>
 
 # 2. Configure Database Ecommerce BackEnd
