@@ -24,8 +24,10 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 <br>
 <br>
 # 3. Creating User Accounts Ecommerce BackEnd
-# - Halaman Login Admin Django
+# - Halaman Login Staff Django
 ![Screenshot 1](screenshot/Screenshot%20(1).png)
+<br>
+# - Review Page Staff Django
 ![Screenshot 2](screenshot/Screenshot%20(2).png)
 ![Screenshot 3](screenshot/Screenshot%20(3).png)
 <br>
@@ -49,8 +51,11 @@ ANGGOTA 6: NAYLA GADIZA SAQINA - 220907502063
 <br>
 <br>
 # 4. Create Dashboard User/Costumers/Staff/Admin
+# - Review Dashboard Admin
 ![Screenshot 26](screenshot/Screenshot%20(26).png)
 ![Screenshot 8](screenshot/Screenshot%20(8).png)
+<br>
+# - Review Dashboard Pelanggan
 ![Screenshot 27](screenshot/Screenshot%20(27).png)
 ![Screenshot 7](screenshot/Screenshot%20(7).png)
 ![Screenshot 10](screenshot/Screenshot%20(10).png)
